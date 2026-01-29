@@ -1,3 +1,10 @@
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
+![YouTube](https://img.shields.io/badge/YouTube-%40shekharITofficial-red?style=for-the-badge&logo=youtube)
+
+![Governance](https://img.shields.io/badge/Tier%200-AI%20Roles%20Orchestrator-orange?style=for-the-badge)
+
+![Quality](https://img.shields.io/badge/Tier%201-Golden%20Master%20Enforcer-gold?style=for-the-badge)
 # ShekharIT – Learning Resources
 
 This repository contains **free, structured learning resources**
